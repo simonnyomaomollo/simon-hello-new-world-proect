@@ -1,0 +1,17 @@
+h1{ color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    background-color: darkgoldenrod;
+    text-shadow: 10px 4px 15px greenyellow;
+    text-decoration: underline ;
+
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+
+img:hover {
+    opacity: 0.8;
+}

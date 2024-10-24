@@ -1,0 +1,53 @@
+form{
+    background-color: cornflowerblue;
+    padding: 40px;
+    border-radius: 150px;
+    box-shadow: 13px 10px 12px rebeccapurple;
+    display: block;
+    width: 500px;
+    height: 700px;
+    margin: 100px;
+    }
+legend{
+
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+input[text=type],input[type=password],input[email=type],textarea[type=password],select[type=Phone],
+
+
+select{width: 100px;
+height: 40px;
+margin: 5px;
+border-radius: 10px;
+box-shadow: 12px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+input[text=type]:focus,input[type=password]:focus,input[email=type]:focus,textarea[type=password]:focus,select[type=Phone],
+
+button{
+    background-color: #2162c5;
+    width: 30%;
+    height: 50px;
+    border: 15px;
+    display : block;
+    margin: auto;
+    border-radius: 40px;
+}
+ button:hover{
+     background-color: yellowgreen;
+     cursor: pointer;
+
+ }
+ body{
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 15px;
+
+
+
+ }

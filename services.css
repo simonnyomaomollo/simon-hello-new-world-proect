@@ -1,0 +1,97 @@
+#headig1{
+    text-align: center;
+}
+.paragraph{
+    padding: 100px;
+    font-size: 20pt;
+    text-underline: forestgreen}
+
+
+body{
+    background: darkgoldenrod;
+    border: 3px solid darkgoldenrod;
+    padding: 100px;
+}
+
+h1{
+    background: magenta;width: 400px;
+    border: 3px solid darkgoldenrod;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.paragraph{
+     padding: 100px;
+    font-size: 20pt;
+}
+
+#one{
+    background-color:blue;
+    margin:40px;
+    border: 13px solid #ffffff;
+    padding: 40px;
+    color: white;
+}
+#test{
+    background-color: darkred;
+    margin:59px;
+    padding: 40px;
+    display: flex;
+    color: white;
+    border-radius: 100px;
+}
+
+#test img{
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+    border-radius: 400px;
+
+}
+#main{
+    display: flex;
+    border-radius: 50%;
+
+}
+#advert,#account,#payment {
+    background-color: darkgoldenrod;border-radius: 50px;
+}
+#advert{
+    background-color: darkred;border-radius: 10px;
+    color: white;
+   margin-left: 40px;
+box-shadow: 8px 5px 13px darkgray;
+}
+#account {
+     background-color: #ffffff;
+    color: #abe14a;
+    margin: 40px;
+    padding: 40px;
+    box-shadow: 8px 5px 13px darkgray;
+}
+
+#payment{
+     background-color: #64008b;
+    color: #2761b8;
+    margin: 40px;
+    padding: 40px;
+    margin-inside: 60px;
+    box-shadow: 8px 5px 13px darkgray;
+
+}
+
+ #but1,#but2,#but3{
+     mso-border-shadow: yes;
+     width: 100px;
+     height: 50px;
+     color: blue;
+    border-radius: 15px;
+    border-bottom-color: #64008b;
+box-shadow: 8px 5px 13px darkgray;
+}
+ #advert:hover,#account:hover,#payment:hover{
+
+     background-color: #49fa05;
+
+
+ }

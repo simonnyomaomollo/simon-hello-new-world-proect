@@ -1,0 +1,9 @@
+img{
+    width:200px;
+    height:200px;
+    margin-right: 20px;
+    border-radius: 35%;
+    border: 5px solid white;
+    box-shadow: 10px 10px 10px #000;
+}
+
